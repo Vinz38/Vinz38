@@ -1,5 +1,5 @@
 - 👋 Hi, I'm @Vinz38
-- 🌱 I am currently studying, I am a student in the 9th grade, learning to program in Python
+- 🌱 I am currently studying, I am a student in the 10th grade, learning to program in Python
 - 📫 How to contact me, you can write to me in telegrams: https://t.me/VinzJDH
 
 <!---
